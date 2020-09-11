@@ -1,0 +1,27 @@
+body{
+    background-color:beige; 
+}
+
+h1 {
+        border-bottom: 5px solid plum;
+        padding: 20px;
+        text-decoration-color: palevioletred
+}
+
+h1 a {
+    text-decoration-color: palevioletred;
+}
+
+ul {
+    border-left: 10px solid plum;
+}
+
+
+h1 {
+    margin-bottom: 5px;
+}
+
+div {
+    display: grid;
+    grid-row: 300px 1fr;
+}
