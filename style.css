@@ -25,3 +25,7 @@ div {
     display: grid;
     grid-row: 300px 1fr;
 }
+
+h3 {
+    text-decoration-color: royalblue;
+}
